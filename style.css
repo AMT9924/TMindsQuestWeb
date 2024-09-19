@@ -55,6 +55,10 @@ nav{
 #brand-name{
     height: 100%;
 }
+.brand-link{
+    width: 100%;
+    height: 100%;
+}
 .hamburger-menu{
     display: none;
     font-size: 2rem;
@@ -64,7 +68,7 @@ nav{
     height: fit-content;
 } */
 .hero-section{
-    background: url('../public/assets/Background1.jpg');
+    background: url('./public/assets/Background1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.3);
