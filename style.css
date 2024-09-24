@@ -363,12 +363,13 @@ section{
     }
     .hero-section{
         min-height: 50vh;
-        
+        padding: 0;
     }
     .hero-text{
         width: 80%;
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: 600;
+        padding: 0;
     }
     .section-content{
         width: 100%;
