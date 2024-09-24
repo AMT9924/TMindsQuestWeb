@@ -371,6 +371,10 @@ section{
         font-weight: 600;
         padding: 0;
     }
+    .section-heading{
+        padding-top: 15vh;
+        font-size: 2rem;
+    }
     .section-content{
         width: 100%;
     }
